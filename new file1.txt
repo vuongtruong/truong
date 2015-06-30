@@ -1,1 +1,3 @@
 new file moi nhat
+
+new 1 file moi
